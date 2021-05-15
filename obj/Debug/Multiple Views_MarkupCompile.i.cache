@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Software\C#temp\Multiple Views\obj\Debug\
+C:\Users\cyhgogogo\Desktop\Multiple Views\obj\Debug\
 Multiple_Views
 none
 false
 DEBUG;TRACE
-D:\Software\C#temp\Multiple Views\App.xaml
+C:\Users\cyhgogogo\Desktop\Multiple Views\App.xaml
 51144906114
 
 14-968903191
 13-1505183044
 MainWindow.xaml;Views\BlueView.xaml;Views\GreenView.xaml;Views\KangView.xaml;Views\RedView.xaml;
 
-False
+True
 
