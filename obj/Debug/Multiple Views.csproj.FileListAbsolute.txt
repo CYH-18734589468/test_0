@@ -1,0 +1,24 @@
+D:\Software\C#temp\Multiple Views\obj\Debug\MainWindow.g.cs
+D:\Software\C#temp\Multiple Views\obj\Debug\Views\BlueView.g.cs
+D:\Software\C#temp\Multiple Views\obj\Debug\Views\RedView.g.cs
+D:\Software\C#temp\Multiple Views\obj\Debug\App.g.cs
+D:\Software\C#temp\Multiple Views\obj\Debug\Multiple Views_MarkupCompile.cache
+D:\Software\C#temp\Multiple Views\obj\Debug\Multiple Views_MarkupCompile.lref
+D:\Software\C#temp\Multiple Views\bin\Debug\Multiple Views.exe.config
+D:\Software\C#temp\Multiple Views\bin\Debug\Multiple Views.exe
+D:\Software\C#temp\Multiple Views\bin\Debug\Multiple Views.pdb
+D:\Software\C#temp\Multiple Views\obj\Debug\MainWindow.baml
+D:\Software\C#temp\Multiple Views\obj\Debug\Views\BlueView.baml
+D:\Software\C#temp\Multiple Views\obj\Debug\Views\RedView.baml
+D:\Software\C#temp\Multiple Views\obj\Debug\Multiple Views.g.resources
+D:\Software\C#temp\Multiple Views\obj\Debug\Multiple_Views.Properties.Resources.resources
+D:\Software\C#temp\Multiple Views\obj\Debug\Multiple Views.csproj.GenerateResource.cache
+D:\Software\C#temp\Multiple Views\obj\Debug\Multiple Views.csproj.CoreCompileInputs.cache
+D:\Software\C#temp\Multiple Views\obj\Debug\Multiple Views.exe
+D:\Software\C#temp\Multiple Views\obj\Debug\Multiple Views.pdb
+D:\Software\C#temp\Multiple Views\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Software\C#temp\Multiple Views\obj\Debug\Views\GreenView.g.cs
+D:\Software\C#temp\Multiple Views\obj\Debug\Views\GreenView.baml
+D:\Software\C#temp\Multiple Views\obj\Debug\Views\KangView.g.cs
+D:\Software\C#temp\Multiple Views\obj\Debug\Views\KangView.baml
+D:\Software\C#temp\Multiple Views\obj\Debug\Multiple Views.csprojAssemblyReference.cache
